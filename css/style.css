@@ -1,0 +1,40 @@
+.timestamp {
+	color: #9d9d9d;
+	font-size: 0.8em;
+}
+
+.glyphicon-ok:before {
+    content: "";
+}
+
+.glyphicon {
+    background-image: url(../image/ok.png);
+    width: 25px;
+    height: 19px;
+}
+
+.scolldiv{
+  max-height: 400px;
+  overflow: hidden;
+}
+
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.zoom-map{
+    background: url(../image/map2.ico);
+    background-size: 100%;
+        width: 32px;
+    margin: -7px 5px 0 0;
+    height: 32px;
+}
+
+/*.notifications{
+    background: url(../image/notification.png);
+    background-size: 100%;
+        width: 32px;
+    margin: -7px 5px 0 0;
+    height: 32px;
+}*/
